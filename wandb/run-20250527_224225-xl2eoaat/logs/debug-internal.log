@@ -1,0 +1,19 @@
+{"time":"2025-05-27T22:42:25.0649066+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250527_224225-xl2eoaat\\logs\\debug-core.log"}
+{"time":"2025-05-27T22:42:25.3580478+02:00","level":"INFO","msg":"created new stream","id":"xl2eoaat"}
+{"time":"2025-05-27T22:42:25.3580478+02:00","level":"INFO","msg":"stream: started","id":"xl2eoaat"}
+{"time":"2025-05-27T22:42:25.3580478+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T22:42:25.3580478+02:00","level":"INFO","msg":"handler: started","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T22:42:25.3585644+02:00","level":"INFO","msg":"sender: started","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T22:42:25.6710748+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-27T23:33:26.3077843+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/xl2eoaat/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-27T23:33:27.1131008+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-27T23:33:28.6963955+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/xl2eoaat/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-27T23:33:29.277472+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-27T23:37:23.9795029+02:00","level":"INFO","msg":"stream: closing","id":"xl2eoaat"}
+{"time":"2025-05-27T23:37:23.9795029+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-27T23:37:23.9795029+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-27T23:37:24.5927716+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-27T23:37:24.8331782+02:00","level":"INFO","msg":"handler: closed","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T23:37:24.8331782+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T23:37:24.8331782+02:00","level":"INFO","msg":"sender: closed","stream_id":"xl2eoaat"}
+{"time":"2025-05-27T23:37:24.8336807+02:00","level":"INFO","msg":"stream: closed","id":"xl2eoaat"}

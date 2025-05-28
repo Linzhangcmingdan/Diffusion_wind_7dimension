@@ -1,0 +1,7 @@
+{"time":"2025-05-26T01:01:50.7404193+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250526_010150-pmz8e3al\\logs\\debug-core.log"}
+{"time":"2025-05-26T01:01:51.0820818+02:00","level":"INFO","msg":"created new stream","id":"pmz8e3al"}
+{"time":"2025-05-26T01:01:51.0824159+02:00","level":"INFO","msg":"stream: started","id":"pmz8e3al"}
+{"time":"2025-05-26T01:01:51.0824159+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pmz8e3al"}
+{"time":"2025-05-26T01:01:51.0824159+02:00","level":"INFO","msg":"handler: started","stream_id":"pmz8e3al"}
+{"time":"2025-05-26T01:01:51.0824159+02:00","level":"INFO","msg":"sender: started","stream_id":"pmz8e3al"}
+{"time":"2025-05-26T01:01:51.291931+02:00","level":"INFO","msg":"Starting system monitor"}

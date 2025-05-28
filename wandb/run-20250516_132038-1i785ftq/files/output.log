@@ -1,0 +1,55 @@
+Epoch 0 | Loss: nan
+Epoch 20 | Loss: nan
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 42, in <module>
+    optimizer.zero_grad()
+           ^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\model\diffusion_transformer.py", line 72, in loss_fn
+    pred = self(x_t, t)
+           ^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\model\diffusion_transformer.py", line 61, in forward
+    x = self.transformer(x)
+        ^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\container.py", line 240, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\model\diffusion_transformer.py", line 34, in forward
+    ff_out = self.ff(x)
+             ^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\container.py", line 240, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\nn\modules\activation.py", line 734, in forward
+    return F.gelu(input, approximate=self.approximate)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

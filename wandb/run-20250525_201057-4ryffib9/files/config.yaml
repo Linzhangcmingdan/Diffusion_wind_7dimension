@@ -1,0 +1,50 @@
+_wandb:
+    value:
+        cli_version: 0.19.10
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 55
+            "2":
+                - 1
+                - 5
+                - 53
+                - 55
+            "3":
+                - 16
+                - 23
+                - 55
+            "4": 3.11.9
+            "5": 0.19.10
+            "8":
+                - 3
+                - 5
+            "12": 0.19.10
+            "13": windows-amd64
+experiment:
+    value: wind_transformer_diffusion
+loss:
+    value:
+        type: mse
+model:
+    value:
+        dropout: 0.1
+        input_dim: 7
+        model_dim: 256
+        num_layers: 6
+        seq_len: 48
+        timesteps: 200
+sample:
+    value:
+        n_samples: 1000
+        save_path: samples/
+training:
+    value:
+        batch_size: 64
+        epochs: 200
+        lr: "1e-4"
+        optimizer: adamw

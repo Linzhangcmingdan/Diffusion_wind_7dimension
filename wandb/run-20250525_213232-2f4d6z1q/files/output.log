@@ -1,0 +1,14 @@
+Epoch 0 | Loss: 0.1613
+Epoch 20 | Loss: 0.1498
+Epoch 40 | Loss: 0.1955
+Epoch 60 | Loss: 0.1382
+Epoch 80 | Loss: 0.1302
+Epoch 100 | Loss: 0.1553
+Epoch 120 | Loss: 0.1328
+Epoch 140 | Loss: 0.1373
+Epoch 160 | Loss: 0.1779
+Epoch 180 | Loss: 0.1739
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 110, in <module>
+    plt.close()
+TypeError: plot_and_save_normalized_data() got an unexpected keyword argument 'original'

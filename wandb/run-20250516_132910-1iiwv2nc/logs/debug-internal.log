@@ -1,0 +1,17 @@
+{"time":"2025-05-16T13:29:10.3671001+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250516_132910-1iiwv2nc\\logs\\debug-core.log"}
+{"time":"2025-05-16T13:29:10.7043137+02:00","level":"INFO","msg":"created new stream","id":"1iiwv2nc"}
+{"time":"2025-05-16T13:29:10.7051679+02:00","level":"INFO","msg":"stream: started","id":"1iiwv2nc"}
+{"time":"2025-05-16T13:29:10.7051679+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:29:10.7064095+02:00","level":"INFO","msg":"handler: started","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:29:10.7064095+02:00","level":"INFO","msg":"sender: started","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:29:11.0477932+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-16T13:41:00.5806064+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/1iiwv2nc/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-16T13:41:03.074931+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/1iiwv2nc/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-16T13:49:28.9158411+02:00","level":"INFO","msg":"stream: closing","id":"1iiwv2nc"}
+{"time":"2025-05-16T13:49:28.9158411+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-16T13:49:28.9158411+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-16T13:49:29.6119206+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-16T13:49:29.8028848+02:00","level":"INFO","msg":"handler: closed","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:49:29.8028848+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:49:29.8028848+02:00","level":"INFO","msg":"sender: closed","stream_id":"1iiwv2nc"}
+{"time":"2025-05-16T13:49:29.8065821+02:00","level":"INFO","msg":"stream: closed","id":"1iiwv2nc"}

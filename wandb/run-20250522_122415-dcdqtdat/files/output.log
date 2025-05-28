@@ -1,0 +1,13 @@
+Epoch 0 | Loss: 0.1903
+Epoch 20 | Loss: 0.1783
+Epoch 40 | Loss: 0.1942
+Epoch 60 | Loss: 0.1144
+Epoch 80 | Loss: 0.1043
+Epoch 100 | Loss: 0.1737
+Epoch 120 | Loss: 0.1427
+Epoch 140 | Loss: 0.1349
+Epoch 160 | Loss: 0.1814
+Epoch 180 | Loss: 0.1823
+D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\tools\visualization.py:22: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  if not np.issubdtype(df.dtypes[0], np.number):
+Saved sample plot to samples/sample_plot.png

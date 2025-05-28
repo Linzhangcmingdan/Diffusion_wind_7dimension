@@ -1,0 +1,22 @@
+{"time":"2025-05-19T12:34:51.7033215+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250519_123451-cit1544f\\logs\\debug-core.log"}
+{"time":"2025-05-19T12:34:51.9975241+02:00","level":"INFO","msg":"created new stream","id":"cit1544f"}
+{"time":"2025-05-19T12:34:51.9975241+02:00","level":"INFO","msg":"stream: started","id":"cit1544f"}
+{"time":"2025-05-19T12:34:51.9978773+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"cit1544f"}
+{"time":"2025-05-19T12:34:51.9978773+02:00","level":"INFO","msg":"handler: started","stream_id":"cit1544f"}
+{"time":"2025-05-19T12:34:51.9978773+02:00","level":"INFO","msg":"sender: started","stream_id":"cit1544f"}
+{"time":"2025-05-19T12:34:52.2756437+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-19T13:40:39.5318065+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/cit1544f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T13:40:54.0250388+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/cit1544f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T13:40:58.216697+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/cit1544f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T13:41:06.8413015+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 145.94.112.67:58974->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-05-19T13:41:09.0911187+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T13:41:09.0911187+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/cit1544f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T13:41:13.5151918+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-19T14:17:37.6634897+02:00","level":"INFO","msg":"stream: closing","id":"cit1544f"}
+{"time":"2025-05-19T14:17:37.6634897+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-19T14:17:37.6640059+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-19T14:17:38.3090743+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-19T14:17:38.5278298+02:00","level":"INFO","msg":"handler: closed","stream_id":"cit1544f"}
+{"time":"2025-05-19T14:17:38.5278298+02:00","level":"INFO","msg":"sender: closed","stream_id":"cit1544f"}
+{"time":"2025-05-19T14:17:38.5278298+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cit1544f"}
+{"time":"2025-05-19T14:17:38.5278298+02:00","level":"INFO","msg":"stream: closed","id":"cit1544f"}

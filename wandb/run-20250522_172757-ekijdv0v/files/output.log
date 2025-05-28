@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 50, in <module>
+    loss.backward()
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\autograd\__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\autograd\graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

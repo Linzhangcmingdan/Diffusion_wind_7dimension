@@ -1,0 +1,18 @@
+Epoch 0 | Loss: 0.1609
+Epoch 20 | Loss: 0.1969
+Epoch 40 | Loss: 0.1438
+Epoch 60 | Loss: 0.1538
+Epoch 80 | Loss: 0.1373
+Epoch 100 | Loss: 0.1561
+Epoch 120 | Loss: 0.2349
+Epoch 140 | Loss: 0.1610
+Epoch 160 | Loss: 0.1492
+Epoch 180 | Loss: 0.1580
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 58, in <module>
+    original = load_original_from_csv("data/train_set_wind.csv", cfg['model']['seq_len'])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\tools\visualization.py", line 19, in load_original_from_csv
+    data = df.values.astype(np.float32)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '2020-09-20 00:00:00'

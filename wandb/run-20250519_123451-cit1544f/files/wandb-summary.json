@@ -1,0 +1,1 @@
+{"loss":0.17314089834690094,"epoch":199,"_timestamp":1.747657056760772e+09,"_runtime":6165.0618459,"_step":200,"samples":{"sha256":"babe0131fd37b8717bd407778f4582e31161626c8dcb486895544bb31ae2c929","size":62583,"path":"media/images/samples_200_babe0131fd37b8717bd4.png","format":"png","width":1200,"height":400,"_type":"image-file"},"_wandb":{"runtime":6165}}

@@ -1,0 +1,18 @@
+{"time":"2025-05-27T23:54:07.0263803+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250527_235406-dae24md1\\logs\\debug-core.log"}
+{"time":"2025-05-27T23:54:07.3459644+02:00","level":"INFO","msg":"created new stream","id":"dae24md1"}
+{"time":"2025-05-27T23:54:07.3459644+02:00","level":"INFO","msg":"stream: started","id":"dae24md1"}
+{"time":"2025-05-27T23:54:07.3459644+02:00","level":"INFO","msg":"sender: started","stream_id":"dae24md1"}
+{"time":"2025-05-27T23:54:07.3459644+02:00","level":"INFO","msg":"handler: started","stream_id":"dae24md1"}
+{"time":"2025-05-27T23:54:07.3459644+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"dae24md1"}
+{"time":"2025-05-27T23:54:07.5855709+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-28T03:10:38.5145195+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/dae24md1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T06:59:15.6694393+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/dae24md1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T06:59:18.1076135+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/dae24md1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T07:01:46.8694332+02:00","level":"INFO","msg":"stream: closing","id":"dae24md1"}
+{"time":"2025-05-28T07:01:46.8701636+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-28T07:01:46.8708604+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-28T07:01:47.4755574+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-28T07:01:47.7208572+02:00","level":"INFO","msg":"sender: closed","stream_id":"dae24md1"}
+{"time":"2025-05-28T07:01:47.7225534+02:00","level":"INFO","msg":"handler: closed","stream_id":"dae24md1"}
+{"time":"2025-05-28T07:01:47.7225534+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dae24md1"}
+{"time":"2025-05-28T07:01:47.7225534+02:00","level":"INFO","msg":"stream: closed","id":"dae24md1"}

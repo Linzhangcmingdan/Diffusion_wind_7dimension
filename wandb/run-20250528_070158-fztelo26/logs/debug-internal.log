@@ -1,0 +1,18 @@
+{"time":"2025-05-28T07:01:58.5067108+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250528_070158-fztelo26\\logs\\debug-core.log"}
+{"time":"2025-05-28T07:01:58.8323992+02:00","level":"INFO","msg":"created new stream","id":"fztelo26"}
+{"time":"2025-05-28T07:01:58.8329542+02:00","level":"INFO","msg":"stream: started","id":"fztelo26"}
+{"time":"2025-05-28T07:01:58.8329542+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"fztelo26"}
+{"time":"2025-05-28T07:01:58.8329542+02:00","level":"INFO","msg":"handler: started","stream_id":"fztelo26"}
+{"time":"2025-05-28T07:01:58.8329542+02:00","level":"INFO","msg":"sender: started","stream_id":"fztelo26"}
+{"time":"2025-05-28T07:01:59.1941038+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-28T07:46:42.5180098+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/fztelo26/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:23.5387835+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-05-28T10:07:23.5446619+02:00","level":"WARN","msg":"sender: taking a long time","seconds":3854.524202,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"cwmri7ww7iyw\" connection_id:\"127.0.0.1:63382\")"}
+{"time":"2025-05-28T10:07:23.5727618+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/fztelo26/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:26.8863463+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/fztelo26/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:28.9544613+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.104:63059->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-05-28T10:07:31.4659874+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/fztelo26/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:33.3425189+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:50.7509267+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:07:50.7509267+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/fztelo26/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-28T10:08:07.9931967+02:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":3899.9992397,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"cwmri7ww7iyw\" connection_id:\"127.0.0.1:63382\")"}

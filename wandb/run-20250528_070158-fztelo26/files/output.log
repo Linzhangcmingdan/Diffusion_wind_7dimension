@@ -1,0 +1,8 @@
+Epoch 0 | Loss: 0.2004
+Epoch 20 | Loss: 0.1923
+Epoch 40 | Loss: 0.1858
+Epoch 60 | Loss: 0.1728
+Epoch 80 | Loss: 0.1723
+Generated samples shape: (1000, 7), Original shape: (1000, 7)
+Epoch 0 | Loss: 0.1488
+✅ Image saved at ./generated_images\wandb_sample_epoch0.png

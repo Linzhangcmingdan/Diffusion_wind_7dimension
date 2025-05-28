@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 50, in <module>
+    optimizer.step()
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\optimizer.py", line 485, in wrapper
+    out = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\optimizer.py", line 79, in _use_grad
+    ret = func(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\adam.py", line 246, in step
+    adam(
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\optimizer.py", line 147, in maybe_fallback
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\adam.py", line 933, in adam
+    func(
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\torch\optim\adam.py", line 660, in _multi_tensor_adam
+    torch._foreach_mul_(device_params, 1 - lr * weight_decay)
+KeyboardInterrupt

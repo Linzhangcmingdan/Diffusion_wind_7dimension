@@ -1,0 +1,28 @@
+Epoch 0 | Loss: 0.2458
+Epoch 20 | Loss: 0.1663
+Epoch 40 | Loss: 0.1752
+Epoch 60 | Loss: 0.1882
+Epoch 80 | Loss: 0.1447
+Epoch 100 | Loss: 0.2173
+Epoch 120 | Loss: 0.1146
+Epoch 140 | Loss: 0.1472
+Epoch 160 | Loss: 0.1989
+Generated samples shape: (1000, 7), Original shape: (1000, 7)
+Epoch 0 | Loss: 0.1571
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 116, in <module>
+    plot_samples(original, generated, epoch, show_plot=True)
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\tools\visualization.py", line 258, in plot_samples
+    plt.plot(generated.T, alpha = 0.05, c ='b')
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\matplotlib\pyplot.py", line 3827, in plot
+    return gca().plot(
+           ^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\matplotlib\axes\_axes.py", line 1777, in plot
+    lines = [*self._get_lines(self, *args, data=data, **kwargs)]
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\matplotlib\axes\_base.py", line 297, in __call__
+    yield from self._plot_args(
+               ^^^^^^^^^^^^^^^^
+  File "D:\TU-Delft\Tech_star\venv\Lib\site-packages\matplotlib\axes\_base.py", line 497, in _plot_args
+    raise ValueError(f"x and y can be no greater than 2D, but have "
+ValueError: x and y can be no greater than 2D, but have shapes (7,) and (7, 48, 1000)

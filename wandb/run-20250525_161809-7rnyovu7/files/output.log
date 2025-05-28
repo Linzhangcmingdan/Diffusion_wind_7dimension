@@ -1,0 +1,16 @@
+Epoch 0 | Loss: 0.1864
+Epoch 20 | Loss: 0.1358
+Epoch 40 | Loss: 0.1534
+Epoch 60 | Loss: 0.1319
+Epoch 80 | Loss: 0.1948
+Epoch 100 | Loss: 0.1828
+Epoch 120 | Loss: 0.1885
+Epoch 140 | Loss: 0.1510
+Epoch 160 | Loss: 0.1717
+Epoch 180 | Loss: 0.1855
+Epoch 200 | Loss: 0.1370
+Traceback (most recent call last):
+  File "D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\main.py", line 49, in <module>
+    batch = batch.cuda()
+            ^^^^^^^^^^^^
+KeyboardInterrupt

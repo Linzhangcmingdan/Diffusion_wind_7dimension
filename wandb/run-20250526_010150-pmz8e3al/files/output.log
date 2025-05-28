@@ -1,0 +1,7 @@
+Epoch 0 | Loss: 0.1827
+Epoch 20 | Loss: 0.2108
+Epoch 40 | Loss: 0.1623
+Epoch 60 | Loss: 0.1519
+Epoch 80 | Loss: 0.1418
+Epoch 0 | Loss: 0.1159
+✅ Image saved at ./generated_images\wandb_sample_epoch0.png

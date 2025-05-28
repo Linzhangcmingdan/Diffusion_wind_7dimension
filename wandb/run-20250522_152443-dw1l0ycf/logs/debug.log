@@ -1,0 +1,23 @@
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_setup.py:_flush():68] Current SDK version is 0.19.10
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_setup.py:_flush():68] Configure stats pid to 43764
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_setup.py:_flush():68] Loading settings from C:\Users\Zll11\.config\wandb\settings
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_setup.py:_flush():68] Loading settings from D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\wandb\settings
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-22 15:24:43,912 INFO    MainThread:43764 [wandb_init.py:setup_run_log_directory():724] Logging user logs to D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\wandb\run-20250522_152443-dw1l0ycf\logs\debug.log
+2025-05-22 15:24:43,915 INFO    MainThread:43764 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to D:\TU-Delft\Tech_star\repo_test\Energydiff\diffusion_again\wandb\run-20250522_152443-dw1l0ycf\logs\debug-internal.log
+2025-05-22 15:24:43,915 INFO    MainThread:43764 [wandb_init.py:init():852] calling init triggers
+2025-05-22 15:24:43,915 INFO    MainThread:43764 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'experiment': 'wind_transformer_diffusion', 'model': {'input_dim': 7, 'model_dim': 256, 'seq_len': 48, 'timesteps': 200, 'num_layers': 6}, 'training': {'batch_size': 32, 'epochs': 500, 'lr': '5e-5', 'optimizer': 'adamw'}, 'loss': {'type': 'mae'}, 'sample': {'n_samples': 5, 'save_path': 'samples/'}, '_wandb': {}}
+2025-05-22 15:24:43,915 INFO    MainThread:43764 [wandb_init.py:init():893] starting backend
+2025-05-22 15:24:43,915 INFO    MainThread:43764 [wandb_init.py:init():897] sending inform_init request
+2025-05-22 15:24:43,942 INFO    MainThread:43764 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-22 15:24:43,942 INFO    MainThread:43764 [wandb_init.py:init():907] backend started and connected
+2025-05-22 15:24:43,944 INFO    MainThread:43764 [wandb_init.py:init():1002] updated telemetry
+2025-05-22 15:24:44,140 INFO    MainThread:43764 [wandb_init.py:init():1026] communicating run to backend with 90.0 second timeout
+2025-05-22 15:24:44,481 INFO    MainThread:43764 [wandb_init.py:init():1101] starting run threads in backend
+2025-05-22 15:24:44,566 INFO    MainThread:43764 [wandb_run.py:_console_start():2566] atexit reg
+2025-05-22 15:24:44,567 INFO    MainThread:43764 [wandb_run.py:_redirect():2414] redirect: wrap_raw
+2025-05-22 15:24:44,567 INFO    MainThread:43764 [wandb_run.py:_redirect():2483] Wrapping output streams.
+2025-05-22 15:24:44,567 INFO    MainThread:43764 [wandb_run.py:_redirect():2506] Redirects installed.
+2025-05-22 15:24:44,568 INFO    MainThread:43764 [wandb_init.py:init():1147] run started, returning control to user process
+2025-05-22 17:26:49,428 INFO    MsgRouterThr:43764 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.

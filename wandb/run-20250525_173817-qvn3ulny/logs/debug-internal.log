@@ -1,0 +1,16 @@
+{"time":"2025-05-25T17:38:17.9686221+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250525_173817-qvn3ulny\\logs\\debug-core.log"}
+{"time":"2025-05-25T17:38:18.3005517+02:00","level":"INFO","msg":"created new stream","id":"qvn3ulny"}
+{"time":"2025-05-25T17:38:18.3005517+02:00","level":"INFO","msg":"stream: started","id":"qvn3ulny"}
+{"time":"2025-05-25T17:38:18.3005517+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"qvn3ulny"}
+{"time":"2025-05-25T17:38:18.3005517+02:00","level":"INFO","msg":"sender: started","stream_id":"qvn3ulny"}
+{"time":"2025-05-25T17:38:18.3010868+02:00","level":"INFO","msg":"handler: started","stream_id":"qvn3ulny"}
+{"time":"2025-05-25T17:38:18.5551681+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-25T23:53:04.2065602+02:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/qvn3ulny/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-05-26T00:11:15.8916461+02:00","level":"INFO","msg":"stream: closing","id":"qvn3ulny"}
+{"time":"2025-05-26T00:11:15.8916461+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-26T00:11:15.8916461+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-26T00:11:16.4748805+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-26T00:11:16.6737711+02:00","level":"INFO","msg":"handler: closed","stream_id":"qvn3ulny"}
+{"time":"2025-05-26T00:11:16.6737711+02:00","level":"INFO","msg":"sender: closed","stream_id":"qvn3ulny"}
+{"time":"2025-05-26T00:11:16.6737711+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qvn3ulny"}
+{"time":"2025-05-26T00:11:16.6737711+02:00","level":"INFO","msg":"stream: closed","id":"qvn3ulny"}

@@ -1,0 +1,16 @@
+{"time":"2025-05-27T20:36:52.399745+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\TU-Delft\\Tech_star\\repo_test\\Energydiff\\diffusion_again\\wandb\\run-20250527_203652-3p0o8art\\logs\\debug-core.log"}
+{"time":"2025-05-27T20:36:52.7608831+02:00","level":"INFO","msg":"created new stream","id":"3p0o8art"}
+{"time":"2025-05-27T20:36:52.7608831+02:00","level":"INFO","msg":"stream: started","id":"3p0o8art"}
+{"time":"2025-05-27T20:36:52.7608831+02:00","level":"INFO","msg":"handler: started","stream_id":"3p0o8art"}
+{"time":"2025-05-27T20:36:52.761684+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"3p0o8art"}
+{"time":"2025-05-27T20:36:52.761684+02:00","level":"INFO","msg":"sender: started","stream_id":"3p0o8art"}
+{"time":"2025-05-27T20:36:53.0815591+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-27T21:37:24.6335379+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zlyqsl2020-technical-university-of-munich/wind_transformer_diffusion/3p0o8art/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-05-27T22:24:29.2204917+02:00","level":"INFO","msg":"stream: closing","id":"3p0o8art"}
+{"time":"2025-05-27T22:24:29.2204917+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-27T22:24:29.2204917+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-27T22:24:29.8183892+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-27T22:24:30.0573787+02:00","level":"INFO","msg":"handler: closed","stream_id":"3p0o8art"}
+{"time":"2025-05-27T22:24:30.057894+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3p0o8art"}
+{"time":"2025-05-27T22:24:30.057894+02:00","level":"INFO","msg":"sender: closed","stream_id":"3p0o8art"}
+{"time":"2025-05-27T22:24:30.057894+02:00","level":"INFO","msg":"stream: closed","id":"3p0o8art"}
